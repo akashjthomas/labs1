@@ -1,0 +1,6 @@
+The innerHTML property returns:\nT
+he text content of the element, including all spacing and inner HTML tags.
+\nThe innerText property returns:\n
+Just the text content of the element and all its children, without CSS hidden text spacing and tags, except <script> and <style> elements.\
+nThe textContent property returns:\
+nThe text content of the element and all descendaces, with spacing and CSS hidden text, but without tags.\n

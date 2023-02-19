@@ -1,0 +1,7 @@
+f=open("alphabet.txt","r")
+g=f.read()
+words = g.split()
+num = len(words)
+print("Number of words:")
+print(num)
+f.close()
